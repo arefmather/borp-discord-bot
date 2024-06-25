@@ -1,0 +1,11 @@
+{
+  "prefixes": ["!"],
+  "botToken": "",
+  "developers": [""],
+  "mongooseConnectURL": "",
+  "botStatus": "",
+  "invalids": [""],
+  "embedColor": "RANDOM",
+  "unregisterRoles": [""],
+  "whrol": [""]
+}
